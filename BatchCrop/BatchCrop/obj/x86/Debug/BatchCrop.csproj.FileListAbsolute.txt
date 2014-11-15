@@ -1,0 +1,7 @@
+X:\FoodRecognition\BatchCrop\BatchCrop\bin\Debug\BatchCrop.exe
+X:\FoodRecognition\BatchCrop\BatchCrop\bin\Debug\BatchCrop.pdb
+X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.MainWndForm.resources
+X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.Properties.Resources.resources
+X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.csproj.GenerateResource.Cache
+X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.exe
+X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.pdb

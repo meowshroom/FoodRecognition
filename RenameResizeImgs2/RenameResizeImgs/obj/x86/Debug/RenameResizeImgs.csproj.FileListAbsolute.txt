@@ -1,0 +1,15 @@
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs\RenameResizeImgs\bin\Debug\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs\RenameResizeImgs\bin\Debug\RenameResizeImgs.pdb
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.pdb
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.csprojResolveAssemblyReference.cache
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs1\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs1\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.pdb
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs1\RenameResizeImgs\bin\Debug\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs1\RenameResizeImgs\bin\Debug\RenameResizeImgs.pdb
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs1\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.csprojResolveAssemblyReference.cache
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.pdb
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\bin\Debug\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\bin\Debug\RenameResizeImgs.pdb
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\obj\x86\Debug\RenameResizeImgs.csprojResolveAssemblyReference.cache

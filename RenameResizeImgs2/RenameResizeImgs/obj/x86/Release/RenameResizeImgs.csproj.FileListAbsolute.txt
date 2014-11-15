@@ -1,0 +1,8 @@
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\bin\Release\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\bin\Release\RenameResizeImgs.pdb
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\obj\x86\Release\RenameResizeImgs.exe
+C:\Users\Meowshroom\Desktop\專題\RenameResizeImgs2\RenameResizeImgs\obj\x86\Release\RenameResizeImgs.pdb
+W:\專題\RenameResizeImgs2\RenameResizeImgs\obj\x86\Release\RenameResizeImgs.exe
+W:\專題\RenameResizeImgs2\RenameResizeImgs\obj\x86\Release\RenameResizeImgs.pdb
+X:\FoodRecognition\RenameResizeImgs2\RenameResizeImgs\obj\x86\Release\RenameResizeImgs.exe
+X:\FoodRecognition\RenameResizeImgs2\RenameResizeImgs\obj\x86\Release\RenameResizeImgs.pdb

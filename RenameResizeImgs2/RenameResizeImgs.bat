@@ -1,0 +1,2 @@
+RenameResizeImgs.exe .\Holidady
+@pause
