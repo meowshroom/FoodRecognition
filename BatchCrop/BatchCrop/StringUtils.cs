@@ -16,6 +16,12 @@ namespace BatchCrop {
 			return arrayString;
 		}
 
+		public static string filePathToName(string pathString) {
+			string fileName = Path.GetFileName(pathString);
+			int lastDot = fileName.LastIndexOf("."); //副檔名點最後一次出現的位置
+			return fileName.Substring(0, lastDot-1); //傳回到最後一個點之前的字串
+		}
+
 
 	}
 }

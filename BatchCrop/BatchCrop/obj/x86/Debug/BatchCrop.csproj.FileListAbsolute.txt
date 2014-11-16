@@ -5,3 +5,4 @@ X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.Properties.Resour
 X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.csproj.GenerateResource.Cache
 X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.exe
 X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.pdb
+X:\FoodRecognition\BatchCrop\BatchCrop\obj\x86\Debug\BatchCrop.csprojResolveAssemblyReference.cache
